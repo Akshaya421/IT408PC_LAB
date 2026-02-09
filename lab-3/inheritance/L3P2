@@ -1,4 +1,4 @@
-}
+
 class L3P2 extends L3P1{
 	static int neu=5;
 		public static void display(){
