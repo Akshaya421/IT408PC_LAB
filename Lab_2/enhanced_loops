@@ -1,3 +1,4 @@
+//prime numbers
 import java.util.Scanner;
 class L2P2{
 	public static void main(String[] args)
